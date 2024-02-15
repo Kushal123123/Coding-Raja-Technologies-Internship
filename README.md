@@ -50,6 +50,4 @@ We welcome contributions to improve this project! If you'd like to contribute, p
 
 10. Provide a clear description of your changes and their purpose in the pull request.
 
-11. Your contribution will be reviewed, and once approved, it will be merged into the main project.
 
-### Thank you for your contribution! 😄
